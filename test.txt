@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is C635-A295
+
+ Directory of C:\Users\Rishav Maharaj\Documents\Git Projects\MyProject
+
+2019/09/03  18:42    <DIR>          .
+2019/09/03  18:42    <DIR>          ..
+2019/09/03  18:42                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  122ÿ840ÿ244ÿ224 bytes free
